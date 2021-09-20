@@ -23,7 +23,7 @@
 </div>
 <p align="center"><font size="3px">Дальше планируется добавление других языков программирования</font></p><a name="Commands"></a>
 
-<p align="center"><font size="3px">Описание умений и команд голосового помощника Марго</font></p>
+<h5 align="center"><font size="3px">Описание умений и команд голосового помощника Марго</font></h5>
 
 <div align="center">
 
