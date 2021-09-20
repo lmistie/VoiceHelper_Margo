@@ -55,12 +55,12 @@
 
 | Описание библеотек: | Работа в offline-режиме | Требуемые зависимости |
 |:-------:|:----------------:|:---------------:|
-| Распознавать и синтезировать речь: | ✅ | pip install PyAudio<br>pip install pyttsx3<br>pip install SpeechRecognition<br> pip install vosk |
-| Сообщать о прогнозе погоды в любой точке мира: | ❌ | pip install pyowm (OpenWeatherMap) |
-| Производить поисковый запрос в поисковой системе Google (а также открывать сами результаты данного запроса) | ❌ | pip install google |
+| Распознавать и синтезировать речь: | ✅ | pip install PyAudio (https://pypi.org/project/PyAudio/)<br>pip install pyttsx3 (https://pypi.org/project/pyttsx3/)<br>pip install SpeechRecognition (https://pypi.org/project/SpeechRecognition/)<br> pip install vosk (https://pypi.org/project/vosk/)|
+| Сообщать о прогнозе погоды в любой точке мира: | ❌ | pip install pyowm (OpenWeatherMap) (https://pypi.org/project/pyowm/) |
+| Производить поисковый запрос в поисковой системе Google (а также открывать сами результаты данного запроса) | ❌ | pip install google (https://pypi.org/project/google/)|
 | Производить поисковый запрос видео в системе YouTube | ❌ | Пока нет решения |
-| Выполнять поиск определения в Wikipedia c дальнейшим прочтением первых двух предложений | ❌ | pip install wikipedia-api |
-| Переводить фразы с изучаемого языка на родной язык пользователя и наоборот | ❌ | pip install googletrans (Google Translate) |
+| Выполнять поиск определения в Wikipedia c дальнейшим прочтением первых двух предложений | ❌ | pip install wikipedia-api (https://pypi.org/project/Wikipedia-API/)|
+| Переводить фразы с изучаемого языка на родной язык пользователя и наоборот | ❌ | pip install googletrans (Google Translate) (https://pypi.org/project/googletrans/|
 | Искать человека по имени и фамилии в социальных сетях | ❌ | Пока нет решения |
 | «Подбрасывать монетку» | ✅ | Пока нет решения |
 | Здороваться и прощаться (после прощания работа приложения завершается) | ✅ | Пока нет решения |
