@@ -55,7 +55,7 @@
 
 | Описание библеотек: | Работа в offline-режиме | Требуемые зависимости |
 |:-------:|:----------------:|:---------------:|
-| Распознавать и синтезировать речь: | ✅ | pip install PyAudio (https://pypi.org/project/PyAudio/)<br>pip install pyttsx3 (https://pypi.org/project/pyttsx3/)<br>pip install SpeechRecognition (https://pypi.org/project/SpeechRecognition/)<br> pip install vosk (https://pypi.org/project/vosk/)|
+| Распознавать и синтезировать речь: | ✅ | [pip install PyAudio] (https://pypi.org/project/PyAudio/)<br>pip install pyttsx3 (https://pypi.org/project/pyttsx3/)<br>pip install SpeechRecognition (https://pypi.org/project/SpeechRecognition/)<br> pip install vosk (https://pypi.org/project/vosk/)|
 | Сообщать о прогнозе погоды в любой точке мира: | ❌ | pip install pyowm (OpenWeatherMap) (https://pypi.org/project/pyowm/) |
 | Производить поисковый запрос в поисковой системе Google (а также открывать сами результаты данного запроса) | ❌ | pip install google (https://pypi.org/project/google/)|
 | Производить поисковый запрос видео в системе YouTube | ❌ | Пока нет решения |
