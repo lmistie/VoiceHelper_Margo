@@ -1,9 +1,11 @@
+<div align="center">
+
 * [Проект](#Project)
 * [Команды](#Commands) 
 * [Встречи](#Meetings) 
 * [Code review](#Code_review) 
 * [Библиотеки](#Libraries)
-
+</div>
 <div align="center">
 
 ![Foto](https://github.com/lmistie/VoiceHelper_Margo/blob/main/src/logo.gif)
@@ -45,7 +47,6 @@
 </div>
 <br>
 <p align="center"><font size="3px">Этапы развития встречи 15.08.21</font></p><a name="Meetings"></a>
-<br>
 <div align="center">
 
 | № | Задачи |
@@ -54,7 +55,6 @@
 | 2️⃣ | Придерживаемся станарта PEP 8 по коду в проекте |
 | 3️⃣ | Новые фичи добавляем тегами или в новую ветку проекта | 
 | 4️⃣ | Первостепенная задача: <br>❗ Правильное распознавание речи голосовым помощником<br>❗ Правильная обработка речи и преобразование речи в запрос |
-
 </div>
 <br>
 </font></p>
