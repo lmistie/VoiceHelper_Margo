@@ -1,16 +1,16 @@
 <div align="center">
 
+![Foto](https://github.com/lmistie/VoiceHelper_Margo/blob/main/src/Margo.gif)
+</div>
+
+<div align="center">
+
 * [Проект](#Project)
 * [Команды](#Commands) 
 * [Встречи](#Meetings) 
 * [Code review](#Code_review) 
 * [Библиотеки](#Libraries)
 </div>
-<div align="center">
-
-![Foto](https://github.com/lmistie/VoiceHelper_Margo/blob/main/src/logo.gif)
-</div>
-
 <h2 align="center"><font size="8px">Голосовой помощник</font></h2>
 
 
