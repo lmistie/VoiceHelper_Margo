@@ -1,4 +1,7 @@
+<div align="center">
+
 ![Foto](https://github.com/lmistie/VoiceHelper_Margo/blob/main/src/logo.gif)
+</div>
 
 <h2 align="center"><font size="8px">Голосовой помощник</font></h2>
 
