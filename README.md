@@ -62,7 +62,7 @@
 <br>
 </font></p>
 
-<p align="center">Code Review</p>
+<p align="center">Code Review<a name="Code_review"></a></p>
 
 |  | Задачи на исправления (ММ) от 20.09.2021|
 |:---:|:------------:| 
