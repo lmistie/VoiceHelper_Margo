@@ -26,9 +26,9 @@
 ![iTerm2](https://img.shields.io/badge/-iTerm2-000000?style=flat-square&logo=iTerm2&logoWidth=20)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat-square&logo=PowerShell&logoWidth=20)
 </div>
-<p align="center"><font size="3px">Дальше планируется добавление других языков программирования</font></p><a name="Commands"></a>
+<!--<p align="center"><font size="3px">Дальше планируется добавление других языков программирования</font></p>-->
 
-<h5 align="center"><font size="3px">Описание умений и команд голосового помощника Марго</font></h5>
+<h5 align="center"><font size="3px">Описание умений и команд голосового помощника Марго<a name="Commands"></a></font></h5>
 
 <div align="center">
 
