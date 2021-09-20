@@ -21,7 +21,7 @@
 
 ![Python](https://img.shields.io/badge/-python-000000?style=flat-square&logo=python&logoColor=violet&logoWidth=20)
 </div>
-<p align="center"><font size="3px">Дальше планируется добавление других языков программирования</font></p>
+<p align="center"><font size="3px">Дальше планируется добавление других языков программирования</font></p><a name="Commands"></a>
 
 <p align="center"><font size="3px">Описание умений и команд голосового помощника Марго</font></p>
 
@@ -44,7 +44,7 @@
 | Какие планы | ❌ |
 </div>
 <br>
-<p align="center"><font size="3px">Этапы развития встречи 15.08.21:
+<p align="center"><font size="3px">Этапы развития встречи 15.08.21</font></p><a name="Meetings"></a>
 <br>
 <div align="center">
 
@@ -59,7 +59,7 @@
 <br>
 </font></p>
 
-<p align="center"><font size="3px">Описание библеотек и их назначения</font></p>
+<p align="center"><font size="3px">Описание библеотек и их назначения</font></p><a name="Libraries"></a>
 
 | Описание библеотек: | Работа в offline-режиме | Требуемые зависимости |
 |:-------:|:----------------:|:---------------:|
