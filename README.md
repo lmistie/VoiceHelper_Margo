@@ -3,22 +3,28 @@
 ![Foto](https://github.com/lmistie/VoiceHelper_Margo/blob/main/src/Margo.gif)
 </div>
 
-* [Проект](#Project)
-* [Команды](#Commands) 
+* [Логика проекта](#Project)
+* [Команды для Марго](#Commands) 
 * [Встречи](#Meetings) 
 * [Code review](#Code_review) 
 * [Библиотеки](#Libraries)
 
 
-<h2 align="center"><font size="8px">Суть проекта <a name="Project"></a></font></h2>
+<h2 align="center"><font size="8px">Логика проекта <a name="Project"></a></font></h2>
 В итоге должен получиться масштабный голосовой помощник на всех устройствах(начиная с телефона и ПК заканчивая бытовой техникой для управления домом)
 
 ![Foto](https://github.com/lmistie/VoiceHelper_Margo/blob/main/src/scheme.jpeg)
 
-<p align="center"><font size="3px"> Пока весь проект написан на</font></p>
+<p align="center"><font size="3px"> Пока весь проект написан с помощью:</font></p>
 <div align="center">
 
-![Python](https://img.shields.io/badge/-python-000000?style=flat-square&logo=python&logoColor=violet&logoWidth=20)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoWidth=20)
+![Vscode](https://img.shields.io/badge/-VScode-000000?style=flat-square&logo=VisualStudioCode&logoWidth=20&logoColor=blue)
+![Vim](https://img.shields.io/badge/-Vim-000000?style=flat-square&logo=vim&logoWidth=20&logoColor=green)
+![Notepad++](https://img.shields.io/badge/-Notepad++-000000?style=flat-square&logo=Notepad%2b%2b&logoWidth=20&logoColor=green)
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=JetBrains&logoWidth=20&logoColor=green)
+![iTerm2](https://img.shields.io/badge/-iTerm2-000000?style=flat-square&logo=iTerm2&logoWidth=20)
+![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat-square&logo=PowerShell&logoWidth=20)
 </div>
 <p align="center"><font size="3px">Дальше планируется добавление других языков программирования</font></p><a name="Commands"></a>
 
