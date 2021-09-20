@@ -14,6 +14,7 @@
 
 ### Суть проекта <a name="Project"></a>
 В итоге должен получиться масштабный голосовой помощник на всех устройствах(начиная с телефона и ПК заканчивая бытовой техникой для управления домом)
+![Foto](https://github.com/lmistie/VoiceHelper_Margo/blob/main/src/scheme.jpeg)
 
 <p align="center"><font size="3px"> Пока весь проект написан на</font></p>
 <div align="center">
